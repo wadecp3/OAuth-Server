@@ -116,6 +116,17 @@ class OauthAction extends Action {
 			return true;
 		}
 	}
+	/**
+	 * token 过期后 刷新token
+	 */
+	public function refresh_token(){
+		$this->server->addGrantType(new OAuth2\GrantType\RefreshToken($this->storage, array(
+				"always_issue_new_refresh_token" => true,
+				"unset_refresh_token_after_use" => true,
+				"refresh_token_lifetime" => 2419200,
+		)));
+		$this->server->handleTokenRequest($this->request)->send();
+	}
 	//json乱码
 	function arrayRecursive(&$array, $function, $apply_to_keys_also = false) {
 		foreach ( $array as $key => $value ) {
