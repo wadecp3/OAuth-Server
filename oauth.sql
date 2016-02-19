@@ -185,4 +185,4 @@ CREATE TABLE `oauth_users` (
 -- ----------------------------
 -- Records of oauth_users
 -- ----------------------------
-INSERT INTO `oauth_users` VALUES ('李杰', '123456', '男', '28', 'xiaocao');
+INSERT INTO `oauth_users` VALUES ('lijie', '123456', '男', '11', 'xiaocao');
