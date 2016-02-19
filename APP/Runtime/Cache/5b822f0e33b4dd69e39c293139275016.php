@@ -13,18 +13,5 @@
     </form>
     	
    	</div>
-   	<form method="post" action="/Oauth/refresh_token">
-      	<div class="oauth_content" node-type="commonlogin">
-        	<p class="oauth_main_info"> 授权  第三方平台 </p>
-			<input name="authorized" value="yes" hidden>
-			<input name="refresh_token" ><br/>
-			<input name="client_id" value="lijie" ><br/>
-			<input name="client_secret" value="123456" ><br/>
-			<input name="grant_type" value="refresh_token" ><br/>
-			<input name="scope" value="userinfo" ><br/>
-			<button>登陆</button>
-			<!--这里做登陆检查：未登录要求登陆，已登陆直接授权-->
-		</div>
-    </form>
 </body>
 </html>

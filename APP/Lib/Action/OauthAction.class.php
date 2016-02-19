@@ -127,6 +127,15 @@ class OauthAction extends Action {
 		)));
 		$this->server->handleTokenRequest($this->request)->send();
 	}
+	/**
+	 * 客户端认证模式
+	 */
+	public function client_credentials(){
+		$this->server->addGrantType(new OAuth2\GrantType\ClientCredentials($this->storage, array(
+				"allow_credentials_in_request_body" => true
+		)));
+		$this->server->handleTokenRequest($this->request)->send();
+	}
 	//json乱码
 	function arrayRecursive(&$array, $function, $apply_to_keys_also = false) {
 		foreach ( $array as $key => $value ) {
