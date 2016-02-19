@@ -1,0 +1,254 @@
+[Wed Feb 17 16:37:29 2016] [error] [client ::1] File does not exist: D:/wamp/www/OAuthDemo/favicon.ico, referer: http://localhost:8010/
+[Wed Feb 17 16:37:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 16:37:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 16:37:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 16:38:13 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:13 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:13 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:32 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:32 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:32 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/Common/
+[Wed Feb 17 16:38:43 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 16:38:43 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 16:38:43 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/APP/
+[Wed Feb 17 17:53:12 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/
+[Wed Feb 17 17:53:12 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/
+[Wed Feb 17 17:53:12 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/
+[Wed Feb 17 17:53:15 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:15 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:15 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:15 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:15 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Notice:  Undefined index: host in D:\\wamp\\www\\OAuthDemo\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:0, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:32, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Notice:  Undefined index: user in D:\\wamp\\www\\OAuthDemo\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:0, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:32, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Notice:  Undefined index: pass in D:\\wamp\\www\\OAuthDemo\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:0, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:53:16 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\example\\server\\www\\index.php:32, referer: http://localhost:8010/example/server/
+[Wed Feb 17 17:54:09 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/
+[Wed Feb 17 17:54:09 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/
+[Wed Feb 17 17:54:09 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/
+[Wed Feb 17 17:54:09 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/
+[Wed Feb 17 17:54:11 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/
+[Wed Feb 17 17:54:11 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/
+[Wed Feb 17 17:54:11 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/
+[Wed Feb 17 17:54:11 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/
+[Wed Feb 17 17:54:19 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/discovery/
+[Wed Feb 17 17:54:19 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/discovery/
+[Wed Feb 17 17:54:19 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/test/discovery/
+[Wed Feb 17 17:54:23 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:23 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:23 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:25 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:25 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:25 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:25 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:25 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Notice:  Undefined index: host in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Notice:  Undefined index: user in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Notice:  Undefined index: pass in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:26 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:29 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:29 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:29 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:29 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/templates/
+[Wed Feb 17 17:54:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/templates/
+[Wed Feb 17 17:54:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/templates/
+[Wed Feb 17 17:54:31 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/templates/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:38 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP Notice:  Undefined index: scheme in D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequest.php on line 514, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\client\\twolegged.php:0, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   2. OAuthRequester->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\client\\twolegged.php:52, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   3. OAuthRequestSigner->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequester.php:63, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   4. OAuthRequest->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequestSigner.php:67, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   5. OAuthRequest->parseUri() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequest.php:144, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP Notice:  Undefined index: host in D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequest.php on line 518, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\client\\twolegged.php:0, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   2. OAuthRequester->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\client\\twolegged.php:52, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   3. OAuthRequestSigner->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequester.php:63, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   4. OAuthRequest->__construct() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequestSigner.php:67, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:48 2016] [error] [client ::1] PHP   5. OAuthRequest->parseUri() D:\\wamp\\www\\OAuthDemo\\oauth-php\\library\\OAuthRequest.php:144, referer: http://localhost:8010/oauth-php/example/client/
+[Wed Feb 17 17:54:54 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:54 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:54 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:54 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:54 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:56 2016] [error] [client ::1] File does not exist: C:/Apache2, referer: http://localhost:8010/oauth-php/example/server/core/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Notice:  Undefined index: host in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Notice:  Undefined index: user in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Notice:  Undefined index: pass in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 53, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:54:58 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP Warning:  require_once(smarty/libs/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 76, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'smarty/libs/Smarty.class.php' (include_path='.;C:\\php\\pear') in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\init.php on line 76, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:57:43 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:32, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP Notice:  Undefined index: name in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\cache\\templates_c\\9e66c44dad087b40eab7d36154e84f92b78e2140_0.file.index.tpl.php on line 37, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   2. Smarty_Internal_TemplateBase->display() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:35, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   3. Smarty_Internal_TemplateBase->_execute() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:109, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   4. Smarty_Internal_Template->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:191, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   5. Smarty_Template_Compiled->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_template.php:159, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_compiled.php:199, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 17:59:52 2016] [error] [client ::1] PHP   7. content_56c444981fd7e7_66462755() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_resource_base.php:122, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP Notice:  Undefined index: name in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\cache\\templates_c\\9e66c44dad087b40eab7d36154e84f92b78e2140_0.file.index.tpl.php on line 37, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   2. Smarty_Internal_TemplateBase->display() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:35, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   3. Smarty_Internal_TemplateBase->_execute() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:109, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   4. Smarty_Internal_Template->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:191, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   5. Smarty_Template_Compiled->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_template.php:159, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_compiled.php:199, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:43 2016] [error] [client ::1] PHP   7. content_56c444cb0ef408_84732698() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_resource_base.php:122, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP Notice:  Undefined index: name in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\cache\\templates_c\\9e66c44dad087b40eab7d36154e84f92b78e2140_0.file.index.tpl.php on line 37, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   2. Smarty_Internal_TemplateBase->display() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:35, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   3. Smarty_Internal_TemplateBase->_execute() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:109, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   4. Smarty_Internal_Template->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:191, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   5. Smarty_Template_Compiled->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_template.php:159, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_compiled.php:199, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:00:53 2016] [error] [client ::1] PHP   7. content_56c444cb0ef408_84732698() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_resource_base.php:122, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP Notice:  Undefined index: name in D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\cache\\templates_c\\9e66c44dad087b40eab7d36154e84f92b78e2140_0.file.index.tpl.php on line 37, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:0, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   2. Smarty_Internal_TemplateBase->display() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\www\\index.php:35, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   3. Smarty_Internal_TemplateBase->_execute() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:109, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   4. Smarty_Internal_Template->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_templatebase.php:191, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   5. Smarty_Template_Compiled->render() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_internal_template.php:159, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_compiled.php:199, referer: http://localhost:8010/oauth-php/example/server/
+[Wed Feb 17 18:05:33 2016] [error] [client ::1] PHP   7. content_56c444cb0ef408_84732698() D:\\wamp\\www\\OAuthDemo\\oauth-php\\example\\server\\core\\smarty\\libs\\sysplugins\\smarty_template_resource_base.php:122, referer: http://localhost:8010/oauth-php/example/server/
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP Fatal error:  Call to a member function assign() on a non-object in D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Action.class.php on line 165
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   7. A() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:85
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   8. OauthAction->__construct() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\common.php:466
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP   9. Action->__set() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\common.php:9
+[Thu Feb 18 14:02:46 2016] [error] [client ::1] PHP  10. Action->assign() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Action.class.php:170
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP Fatal error:  Call to a member function get() on a non-object in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 18
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:20:29 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP Fatal error:  Call to undefined method OAuth2\\Server::check_client_id() in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 25
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:21:27 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP Fatal error:  Call to undefined method OAuth2\\Server::check_client_id() in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 26
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:22:05 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP Fatal error:  Call to a member function assign() on a non-object in D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Action.class.php on line 165
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   7. A() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:85
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   8. OauthAction->__construct() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\common.php:466
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP   9. Action->__set() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\common.php:9
+[Thu Feb 18 14:22:49 2016] [error] [client ::1] PHP  10. Action->assign() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Action.class.php:170
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP Fatal error:  Call to undefined method OAuth2\\Server::check_client_id() in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 26
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:23:11 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP Fatal error:  Call to a member function view() on a non-object in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 33
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP Stack trace:
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:27:06 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP Fatal error:  Call to undefined method OAuth2\\Server::authorize() in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 37, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:10 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP Fatal error:  Call to undefined method OAuth2\\Server::authorize() in D:\\wamp\\www\\OAuthDemo\\APP\\Lib\\Action\\OauthAction.class.php on line 37, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP Stack trace:, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   1. {main}() D:\\wamp\\www\\OAuthDemo\\index.php:0, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   2. require() D:\\wamp\\www\\OAuthDemo\\index.php:9, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   3. require() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\ThinkPHP.php:34, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   4. Think::start() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Common\\runtime.php:242, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   5. App::run() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\Think.class.php:39, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   6. App::exec() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:189, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   7. ReflectionMethod->invoke() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
+[Thu Feb 18 14:30:59 2016] [error] [client ::1] PHP   8. OauthAction->authorize() D:\\wamp\\www\\OAuthDemo\\ThinkPHP\\Lib\\Core\\App.class.php:153, referer: http://localhost:8010/Oauth/authorize?response_type=code&client_id=testclient&redirect_uri=http://homeway.me/&state=xyz&scope=
