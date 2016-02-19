@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50524
 File Encoding         : 65001
 
-Date: 2016-02-19 15:25:38
+Date: 2016-02-19 15:44:54
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -31,7 +31,15 @@ CREATE TABLE `oauth_access_tokens` (
 -- ----------------------------
 -- Records of oauth_access_tokens
 -- ----------------------------
+INSERT INTO `oauth_access_tokens` VALUES ('26a5a675f6bdfd185c7925bfbc6bca6c78508f18', 'lijie', 'xiaocao', '2016-02-19 16:43:27', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('309446b510405ef440502a28c2930f54e2fca981', 'lijie', 'xiaocao', '2016-02-19 16:38:33', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('3f8f87df907b7a39eb089d677f39625c90a9c641', 'lijie', 'xiaocao', '2016-02-19 16:43:16', 'userinfo');
 INSERT INTO `oauth_access_tokens` VALUES ('42a8c1b2648420537a42ea717ea917971a322193', 'lijie', 'xiaocao', '2016-02-19 16:24:31', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('9023df503d321a38c30fa867e496419f7ba1c318', 'lijie', 'xiaocao', '2016-02-19 16:42:54', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('ac8c930b7ba70ced511c185f29fcc87988c0e389', 'lijie', 'xiaocao', '2016-02-19 16:39:01', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('be0575fa5d37e85c6ff2a47bca630c12544bebc9', 'lijie', 'xiaocao', '2016-02-19 16:41:20', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('bf49a07acda33eed8de4b7fab7af7b0d026a686f', 'lijie', 'xiaocao', '2016-02-19 16:33:47', 'userinfo');
+INSERT INTO `oauth_access_tokens` VALUES ('cb5b1f5e98b151c504764fc3820b8e7716a0761e', 'lijie', 'xiaocao', '2016-02-19 16:42:12', 'userinfo');
 INSERT INTO `oauth_access_tokens` VALUES ('ee7c3a6573f6123482bc062a17d7ba417ca1f9bc', 'lijie', 'xiaocao', '2016-02-19 16:20:48', 'userinfo');
 
 -- ----------------------------
@@ -69,7 +77,7 @@ CREATE TABLE `oauth_clients` (
 -- ----------------------------
 -- Records of oauth_clients
 -- ----------------------------
-INSERT INTO `oauth_clients` VALUES ('lijie', '123456', 'http://localhost:8030/Index/code', 'authorization_code implicit refresh_token', 'userinfo userinfo2', 'xiaocao');
+INSERT INTO `oauth_clients` VALUES ('lijie', '123456', 'http://localhost:8030/Index/code', 'authorization_code implicit refresh_token client_credentials', 'userinfo userinfo2', 'xiaocao');
 
 -- ----------------------------
 -- Table structure for `oauth_refresh_tokens`
@@ -87,7 +95,11 @@ CREATE TABLE `oauth_refresh_tokens` (
 -- ----------------------------
 -- Records of oauth_refresh_tokens
 -- ----------------------------
+INSERT INTO `oauth_refresh_tokens` VALUES ('185d20e85d91824509ef31581b9240baf9c97c24', 'lijie', 'xiaocao', '2016-03-04 15:42:54', 'userinfo');
+INSERT INTO `oauth_refresh_tokens` VALUES ('55087d13857e82ded57253fcb26c98a9a5dccee0', 'lijie', 'xiaocao', '2016-03-04 15:42:12', 'userinfo');
+INSERT INTO `oauth_refresh_tokens` VALUES ('587368e65ecae7d925b7b1b651cd5429ffebb0ed', 'lijie', 'xiaocao', '2016-03-04 15:43:16', 'userinfo');
 INSERT INTO `oauth_refresh_tokens` VALUES ('8acc52f5a194444d4530469317703d375b99675a', 'lijie', 'xiaocao', '2016-03-04 15:24:31', 'userinfo');
+INSERT INTO `oauth_refresh_tokens` VALUES ('cfec98dc0faed5d125abc91e0e9255ae2f59c0d4', 'lijie', 'xiaocao', '2016-03-04 15:41:20', 'userinfo');
 
 -- ----------------------------
 -- Table structure for `oauth_scopes`
