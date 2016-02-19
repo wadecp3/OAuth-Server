@@ -633,3 +633,12 @@
 ::1 - - [19/Feb/2016:15:43:23 +0800] "GET /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://localhost:8030/Index/code&state=xyz&scope=userinfo HTTP/1.1" 200 511
 ::1 - - [19/Feb/2016:15:43:26 +0800] "POST /Oauth/client_credentials HTTP/1.1" 200 118
 ::1 - - [19/Feb/2016:15:43:27 +0800] "GET /Oauth/resource?access_token=26a5a675f6bdfd185c7925bfbc6bca6c78508f18 HTTP/1.1" 200 97
+127.0.0.1 - - [19/Feb/2016:16:06:25 +0800] "GET /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo HTTP/1.1" 400 177
+127.0.0.1 - - [19/Feb/2016:16:06:27 +0800] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [19/Feb/2016:16:07:13 +0800] "GET /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo HTTP/1.1" 200 511
+127.0.0.1 - - [19/Feb/2016:16:07:19 +0800] "POST /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo HTTP/1.1" 302 2
+127.0.0.1 - - [19/Feb/2016:16:07:21 +0800] "POST /Oauth/token HTTP/1.1" 200 177
+127.0.0.1 - - [19/Feb/2016:16:07:23 +0800] "GET /Oauth/resource?access_token=f51d2641c3586b9aa565afb0fb1c1044dd88cd9b HTTP/1.1" 200 97
+127.0.0.1 - - [19/Feb/2016:16:07:38 +0800] "GET /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo HTTP/1.1" 200 511
+127.0.0.1 - - [19/Feb/2016:16:07:42 +0800] "POST /Oauth/client_credentials HTTP/1.1" 200 118
+127.0.0.1 - - [19/Feb/2016:16:07:44 +0800] "GET /Oauth/resource?access_token=edd4a9b5ef43ac3c153b36c54567b2f2774cb078 HTTP/1.1" 200 97
