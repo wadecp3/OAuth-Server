@@ -1,5 +1,5 @@
 # OAuth-Server
-    Oauth2.0 server
+    Oauth2.0 server  基于TP框架与Oauth2.0整合 实现服务端
 # 基于TP框架与Oauth2.0整合 实现服务端
 # 本实例采用 授权码方式授权  带code 
     注： oauth_clients 数据是内置的  实际开发中  让开发者注册 自动生成 client_id(appid)  client_secret(appsecret)
