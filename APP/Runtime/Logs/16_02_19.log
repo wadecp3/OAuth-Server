@@ -3666,3 +3666,744 @@ SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='edd4a9b5e
 SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.010100s ]
 SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000605s ]
 
+[ 2016-02-19T16:19:00+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000735s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000827s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:00+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000752s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000832s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:00+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000732s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000829s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:02+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000963s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:02+08:00 ] 127.0.0.1 /Oauth/resource?access_token=ee2b8fe91580d00a4018a2a8147f53f26b7b7806
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000685s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.007502s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='ee2b8fe91580d00a4018a2a8147f53f26b7b7806' ) LIMIT 1   [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.006448s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000590s ]
+
+[ 2016-02-19T16:19:02+08:00 ] 127.0.0.1 /Oauth/resource?access_token=c0ffbaf3dde6e045062067995a9ef0256b8bd6b8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000771s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000876s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.006967s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='c0ffbaf3dde6e045062067995a9ef0256b8bd6b8' ) LIMIT 1   [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.002688s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000258s ]
+
+[ 2016-02-19T16:19:03+08:00 ] 127.0.0.1 /Oauth/resource?access_token=1f9eafa9d435a12abeac8596d0c7e4d2ec374ddb
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003230s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003559s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.004018s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='1f9eafa9d435a12abeac8596d0c7e4d2ec374ddb' ) LIMIT 1   [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.002585s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000264s ]
+
+[ 2016-02-19T16:19:04+08:00 ] 127.0.0.1 /Oauth/resource?access_token=137a03aea62e10966587f3c1bcf27baf6e7804e9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000645s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.003433s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='137a03aea62e10966587f3c1bcf27baf6e7804e9' ) LIMIT 1   [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.002495s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000225s ]
+
+[ 2016-02-19T16:19:09+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001716s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001902s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:11+08:00 ] 127.0.0.1 /Oauth/resource?access_token=ab633670314e502e0b91b85a8a12186b2bf27738
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000846s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000934s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.014787s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='ab633670314e502e0b91b85a8a12186b2bf27738' ) LIMIT 1   [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.010589s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000892s ]
+
+[ 2016-02-19T16:19:17+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001875s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002077s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001692s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:19+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001456s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001604s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:19+08:00 ] 127.0.0.1 /Oauth/resource?access_token=8926d8bd52b7dcff233c14711cda90aa227c416f
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000828s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000911s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.015742s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='8926d8bd52b7dcff233c14711cda90aa227c416f' ) LIMIT 1   [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.008566s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000525s ]
+
+[ 2016-02-19T16:19:21+08:00 ] 127.0.0.1 /Oauth/resource?access_token=414eb7da96a0644c3fbbf2ea1b67cfec427b645b
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000750s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000837s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.003193s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='414eb7da96a0644c3fbbf2ea1b67cfec427b645b' ) LIMIT 1   [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.002730s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000280s ]
+
+[ 2016-02-19T16:19:27+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000752s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000842s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:19:29+08:00 ] 127.0.0.1 /Oauth/resource?access_token=5ebb591525b4f2393a182cf4bb679462b2c2e927
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000785s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000872s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.006500s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='5ebb591525b4f2393a182cf4bb679462b2c2e927' ) LIMIT 1   [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.002624s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000220s ]
+
+[ 2016-02-19T16:20:19+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001153s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001282s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:20:21+08:00 ] 127.0.0.1 /Oauth/resource?access_token=82999450f38029cdd4c55307453f450539d77d9e
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000743s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000828s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.014828s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='82999450f38029cdd4c55307453f450539d77d9e' ) LIMIT 1   [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.012256s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.001884s ]
+
+[ 2016-02-19T16:21:56+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000836s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000922s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:21:58+08:00 ] 127.0.0.1 /Oauth/resource?access_token=c0e57258f54d1e08b3daae1f1d429a172625dfd2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000794s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000877s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.006943s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='c0e57258f54d1e08b3daae1f1d429a172625dfd2' ) LIMIT 1   [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.003089s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000298s ]
+
+[ 2016-02-19T16:23:49+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001068s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001192s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006283s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000571s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002513s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000727s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-02-19T16:23:55+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001026s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.011048s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( username='李杰' and password='123456' ) LIMIT 1   [ RunTime:0.000674s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+
+[ 2016-02-19T16:23:57+08:00 ] 127.0.0.1 /Oauth/token
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002369s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002633s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:23:59+08:00 ] 127.0.0.1 /Oauth/resource?access_token=6a21c5ffd8e33bba9d87372f2532bf12aaac39c5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001338s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001577s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.010573s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='6a21c5ffd8e33bba9d87372f2532bf12aaac39c5' ) LIMIT 1   [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.006999s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000588s ]
+
+[ 2016-02-19T16:24:03+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001052s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001162s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014150s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001426s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001395s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001150s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006132s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001727s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2016-02-19T16:24:06+08:00 ] 127.0.0.1 /Oauth/client_credentials
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001193s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001366s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:24:09+08:00 ] 127.0.0.1 /Oauth/resource?access_token=4136bb5db0334f6f6c4ce59cf91b4e091156d089
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000876s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001009s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.010915s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='4136bb5db0334f6f6c4ce59cf91b4e091156d089' ) LIMIT 1   [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.010201s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000896s ]
+
+[ 2016-02-19T16:24:17+08:00 ] 127.0.0.1 /Oauth/refresh_token
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:41:36+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001609s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012966s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001250s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001265s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001063s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005210s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001315s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001459s ]
+
+[ 2016-02-19T16:41:42+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000921s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001034s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.015781s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( username='李杰' and password='123456' ) LIMIT 1   [ RunTime:0.001049s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+
+[ 2016-02-19T16:41:43+08:00 ] 127.0.0.1 /Oauth/token
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001139s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001269s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T16:41:46+08:00 ] 127.0.0.1 /Oauth/resource?access_token=3b51e5eb556b8a9c8016be5c10266f3cb543dab3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002424s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002756s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.011539s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='3b51e5eb556b8a9c8016be5c10266f3cb543dab3' ) LIMIT 1   [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.006881s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000669s ]
+
+[ 2016-02-19T16:51:18+08:00 ] 127.0.0.1 /Oauth/resource?access_token=3b51e5eb556b8a9c8016be5c10266f3cb543dab3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001804s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.004276s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='3b51e5eb556b8a9c8016be5c10266f3cb543dab3' ) LIMIT 1   [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.004276s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000367s ]
+
+[ 2016-02-19T17:14:04+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000822s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000918s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010582s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000987s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000905s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000784s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004172s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001169s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2016-02-19T17:14:08+08:00 ] 127.0.0.1 /Oauth/authorize?response_type=code&client_id=lijie&redirect_uri=http://client.tunnel.qydev.com/Index/code&state=xyz&scope=userinfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000669s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000755s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.003888s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( username='李杰' and password='123456' ) LIMIT 1   [ RunTime:0.000333s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Common\common.php 第 109 行.
+
+[ 2016-02-19T17:14:10+08:00 ] 127.0.0.1 /Oauth/token
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003243s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 56 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002294s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+
+[ 2016-02-19T17:14:12+08:00 ] 127.0.0.1 /Oauth/resource?access_token=dd0d7d63e39f1e3008839dbb6edc52b89d521aca
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000769s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.014934s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='dd0d7d63e39f1e3008839dbb6edc52b89d521aca' ) LIMIT 1   [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.012590s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000916s ]
+
+[ 2016-02-19T17:58:36+08:00 ] 127.0.0.1 /Oauth/resource?access_token=dd0d7d63e39f1e3008839dbb6edc52b89d521aca
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000894s ]
+NOTIC: [2] htmlspecialchars() expects parameter 2 to be long, string given D:\wamp\www\OAuthDemo\ThinkPHP\Lib\Core\App.class.php 第 57 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [8] Undefined variable: dbOptions D:\wamp\www\OAuthDemo\APP\Lib\Action\OauthAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `oauth_access_tokens` [ RunTime:0.016235s ]
+SQL: SELECT `user_id` FROM `oauth_access_tokens` WHERE ( access_token='dd0d7d63e39f1e3008839dbb6edc52b89d521aca' ) LIMIT 1   [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `oauth_users` [ RunTime:0.009737s ]
+SQL: SELECT * FROM `oauth_users` WHERE ( user_id='xiaocao' ) LIMIT 1   [ RunTime:0.000941s ]
+
